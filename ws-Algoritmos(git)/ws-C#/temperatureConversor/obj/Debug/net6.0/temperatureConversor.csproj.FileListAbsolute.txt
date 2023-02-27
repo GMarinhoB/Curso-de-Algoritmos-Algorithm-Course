@@ -1,0 +1,15 @@
+C:\Users\guimb\Cursos Udemy\workspaces\ws-C#\temperatureConversor\bin\Debug\net6.0\temperatureConversor.exe
+C:\Users\guimb\Cursos Udemy\workspaces\ws-C#\temperatureConversor\bin\Debug\net6.0\temperatureConversor.deps.json
+C:\Users\guimb\Cursos Udemy\workspaces\ws-C#\temperatureConversor\bin\Debug\net6.0\temperatureConversor.runtimeconfig.json
+C:\Users\guimb\Cursos Udemy\workspaces\ws-C#\temperatureConversor\bin\Debug\net6.0\temperatureConversor.dll
+C:\Users\guimb\Cursos Udemy\workspaces\ws-C#\temperatureConversor\bin\Debug\net6.0\temperatureConversor.pdb
+C:\Users\guimb\Cursos Udemy\workspaces\ws-C#\temperatureConversor\obj\Debug\net6.0\temperatureConversor.csproj.AssemblyReference.cache
+C:\Users\guimb\Cursos Udemy\workspaces\ws-C#\temperatureConversor\obj\Debug\net6.0\temperatureConversor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\guimb\Cursos Udemy\workspaces\ws-C#\temperatureConversor\obj\Debug\net6.0\temperatureConversor.AssemblyInfoInputs.cache
+C:\Users\guimb\Cursos Udemy\workspaces\ws-C#\temperatureConversor\obj\Debug\net6.0\temperatureConversor.AssemblyInfo.cs
+C:\Users\guimb\Cursos Udemy\workspaces\ws-C#\temperatureConversor\obj\Debug\net6.0\temperatureConversor.csproj.CoreCompileInputs.cache
+C:\Users\guimb\Cursos Udemy\workspaces\ws-C#\temperatureConversor\obj\Debug\net6.0\temperatureConversor.dll
+C:\Users\guimb\Cursos Udemy\workspaces\ws-C#\temperatureConversor\obj\Debug\net6.0\refint\temperatureConversor.dll
+C:\Users\guimb\Cursos Udemy\workspaces\ws-C#\temperatureConversor\obj\Debug\net6.0\temperatureConversor.pdb
+C:\Users\guimb\Cursos Udemy\workspaces\ws-C#\temperatureConversor\obj\Debug\net6.0\temperatureConversor.genruntimeconfig.cache
+C:\Users\guimb\Cursos Udemy\workspaces\ws-C#\temperatureConversor\obj\Debug\net6.0\ref\temperatureConversor.dll

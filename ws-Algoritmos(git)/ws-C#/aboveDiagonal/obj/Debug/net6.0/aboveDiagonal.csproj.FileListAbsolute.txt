@@ -1,0 +1,15 @@
+C:\Users\guimb\Cursos Udemy\workspaces\ws-C#\aboveDiagonal\bin\Debug\net6.0\aboveDiagonal.exe
+C:\Users\guimb\Cursos Udemy\workspaces\ws-C#\aboveDiagonal\bin\Debug\net6.0\aboveDiagonal.deps.json
+C:\Users\guimb\Cursos Udemy\workspaces\ws-C#\aboveDiagonal\bin\Debug\net6.0\aboveDiagonal.runtimeconfig.json
+C:\Users\guimb\Cursos Udemy\workspaces\ws-C#\aboveDiagonal\bin\Debug\net6.0\aboveDiagonal.dll
+C:\Users\guimb\Cursos Udemy\workspaces\ws-C#\aboveDiagonal\bin\Debug\net6.0\aboveDiagonal.pdb
+C:\Users\guimb\Cursos Udemy\workspaces\ws-C#\aboveDiagonal\obj\Debug\net6.0\aboveDiagonal.csproj.AssemblyReference.cache
+C:\Users\guimb\Cursos Udemy\workspaces\ws-C#\aboveDiagonal\obj\Debug\net6.0\aboveDiagonal.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\guimb\Cursos Udemy\workspaces\ws-C#\aboveDiagonal\obj\Debug\net6.0\aboveDiagonal.AssemblyInfoInputs.cache
+C:\Users\guimb\Cursos Udemy\workspaces\ws-C#\aboveDiagonal\obj\Debug\net6.0\aboveDiagonal.AssemblyInfo.cs
+C:\Users\guimb\Cursos Udemy\workspaces\ws-C#\aboveDiagonal\obj\Debug\net6.0\aboveDiagonal.csproj.CoreCompileInputs.cache
+C:\Users\guimb\Cursos Udemy\workspaces\ws-C#\aboveDiagonal\obj\Debug\net6.0\aboveDiagonal.dll
+C:\Users\guimb\Cursos Udemy\workspaces\ws-C#\aboveDiagonal\obj\Debug\net6.0\refint\aboveDiagonal.dll
+C:\Users\guimb\Cursos Udemy\workspaces\ws-C#\aboveDiagonal\obj\Debug\net6.0\aboveDiagonal.pdb
+C:\Users\guimb\Cursos Udemy\workspaces\ws-C#\aboveDiagonal\obj\Debug\net6.0\aboveDiagonal.genruntimeconfig.cache
+C:\Users\guimb\Cursos Udemy\workspaces\ws-C#\aboveDiagonal\obj\Debug\net6.0\ref\aboveDiagonal.dll

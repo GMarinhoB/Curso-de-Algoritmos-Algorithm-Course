@@ -1,0 +1,15 @@
+C:\Users\guimb\Cursos Udemy\workspaces\ws-C#\terrainAlgorithm\obj\Debug\net6.0\terrainAlgorithm.csproj.AssemblyReference.cache
+C:\Users\guimb\Cursos Udemy\workspaces\ws-C#\terrainAlgorithm\obj\Debug\net6.0\terrainAlgorithm.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\guimb\Cursos Udemy\workspaces\ws-C#\terrainAlgorithm\obj\Debug\net6.0\terrainAlgorithm.AssemblyInfoInputs.cache
+C:\Users\guimb\Cursos Udemy\workspaces\ws-C#\terrainAlgorithm\obj\Debug\net6.0\terrainAlgorithm.AssemblyInfo.cs
+C:\Users\guimb\Cursos Udemy\workspaces\ws-C#\terrainAlgorithm\obj\Debug\net6.0\terrainAlgorithm.csproj.CoreCompileInputs.cache
+C:\Users\guimb\Cursos Udemy\workspaces\ws-C#\terrainAlgorithm\bin\Debug\net6.0\terrainAlgorithm.exe
+C:\Users\guimb\Cursos Udemy\workspaces\ws-C#\terrainAlgorithm\bin\Debug\net6.0\terrainAlgorithm.deps.json
+C:\Users\guimb\Cursos Udemy\workspaces\ws-C#\terrainAlgorithm\bin\Debug\net6.0\terrainAlgorithm.runtimeconfig.json
+C:\Users\guimb\Cursos Udemy\workspaces\ws-C#\terrainAlgorithm\bin\Debug\net6.0\terrainAlgorithm.dll
+C:\Users\guimb\Cursos Udemy\workspaces\ws-C#\terrainAlgorithm\bin\Debug\net6.0\terrainAlgorithm.pdb
+C:\Users\guimb\Cursos Udemy\workspaces\ws-C#\terrainAlgorithm\obj\Debug\net6.0\terrainAlgorithm.dll
+C:\Users\guimb\Cursos Udemy\workspaces\ws-C#\terrainAlgorithm\obj\Debug\net6.0\refint\terrainAlgorithm.dll
+C:\Users\guimb\Cursos Udemy\workspaces\ws-C#\terrainAlgorithm\obj\Debug\net6.0\terrainAlgorithm.pdb
+C:\Users\guimb\Cursos Udemy\workspaces\ws-C#\terrainAlgorithm\obj\Debug\net6.0\terrainAlgorithm.genruntimeconfig.cache
+C:\Users\guimb\Cursos Udemy\workspaces\ws-C#\terrainAlgorithm\obj\Debug\net6.0\ref\terrainAlgorithm.dll

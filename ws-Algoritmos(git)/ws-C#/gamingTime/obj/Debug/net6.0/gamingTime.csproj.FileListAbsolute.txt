@@ -1,0 +1,15 @@
+C:\Users\guimb\Cursos Udemy\workspaces\ws-C#\gamingTime\bin\Debug\net6.0\gamingTime.exe
+C:\Users\guimb\Cursos Udemy\workspaces\ws-C#\gamingTime\bin\Debug\net6.0\gamingTime.deps.json
+C:\Users\guimb\Cursos Udemy\workspaces\ws-C#\gamingTime\bin\Debug\net6.0\gamingTime.runtimeconfig.json
+C:\Users\guimb\Cursos Udemy\workspaces\ws-C#\gamingTime\bin\Debug\net6.0\gamingTime.dll
+C:\Users\guimb\Cursos Udemy\workspaces\ws-C#\gamingTime\bin\Debug\net6.0\gamingTime.pdb
+C:\Users\guimb\Cursos Udemy\workspaces\ws-C#\gamingTime\obj\Debug\net6.0\gamingTime.csproj.AssemblyReference.cache
+C:\Users\guimb\Cursos Udemy\workspaces\ws-C#\gamingTime\obj\Debug\net6.0\gamingTime.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\guimb\Cursos Udemy\workspaces\ws-C#\gamingTime\obj\Debug\net6.0\gamingTime.AssemblyInfoInputs.cache
+C:\Users\guimb\Cursos Udemy\workspaces\ws-C#\gamingTime\obj\Debug\net6.0\gamingTime.AssemblyInfo.cs
+C:\Users\guimb\Cursos Udemy\workspaces\ws-C#\gamingTime\obj\Debug\net6.0\gamingTime.csproj.CoreCompileInputs.cache
+C:\Users\guimb\Cursos Udemy\workspaces\ws-C#\gamingTime\obj\Debug\net6.0\gamingTime.dll
+C:\Users\guimb\Cursos Udemy\workspaces\ws-C#\gamingTime\obj\Debug\net6.0\refint\gamingTime.dll
+C:\Users\guimb\Cursos Udemy\workspaces\ws-C#\gamingTime\obj\Debug\net6.0\gamingTime.pdb
+C:\Users\guimb\Cursos Udemy\workspaces\ws-C#\gamingTime\obj\Debug\net6.0\gamingTime.genruntimeconfig.cache
+C:\Users\guimb\Cursos Udemy\workspaces\ws-C#\gamingTime\obj\Debug\net6.0\ref\gamingTime.dll

@@ -1,0 +1,15 @@
+C:\Users\guimb\Cursos Udemy\workspaces\ws-C#\sumOdd\bin\Debug\net6.0\sumOdd.exe
+C:\Users\guimb\Cursos Udemy\workspaces\ws-C#\sumOdd\bin\Debug\net6.0\sumOdd.deps.json
+C:\Users\guimb\Cursos Udemy\workspaces\ws-C#\sumOdd\bin\Debug\net6.0\sumOdd.runtimeconfig.json
+C:\Users\guimb\Cursos Udemy\workspaces\ws-C#\sumOdd\bin\Debug\net6.0\sumOdd.dll
+C:\Users\guimb\Cursos Udemy\workspaces\ws-C#\sumOdd\bin\Debug\net6.0\sumOdd.pdb
+C:\Users\guimb\Cursos Udemy\workspaces\ws-C#\sumOdd\obj\Debug\net6.0\sumOdd.csproj.AssemblyReference.cache
+C:\Users\guimb\Cursos Udemy\workspaces\ws-C#\sumOdd\obj\Debug\net6.0\sumOdd.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\guimb\Cursos Udemy\workspaces\ws-C#\sumOdd\obj\Debug\net6.0\sumOdd.AssemblyInfoInputs.cache
+C:\Users\guimb\Cursos Udemy\workspaces\ws-C#\sumOdd\obj\Debug\net6.0\sumOdd.AssemblyInfo.cs
+C:\Users\guimb\Cursos Udemy\workspaces\ws-C#\sumOdd\obj\Debug\net6.0\sumOdd.csproj.CoreCompileInputs.cache
+C:\Users\guimb\Cursos Udemy\workspaces\ws-C#\sumOdd\obj\Debug\net6.0\sumOdd.dll
+C:\Users\guimb\Cursos Udemy\workspaces\ws-C#\sumOdd\obj\Debug\net6.0\refint\sumOdd.dll
+C:\Users\guimb\Cursos Udemy\workspaces\ws-C#\sumOdd\obj\Debug\net6.0\sumOdd.pdb
+C:\Users\guimb\Cursos Udemy\workspaces\ws-C#\sumOdd\obj\Debug\net6.0\sumOdd.genruntimeconfig.cache
+C:\Users\guimb\Cursos Udemy\workspaces\ws-C#\sumOdd\obj\Debug\net6.0\ref\sumOdd.dll

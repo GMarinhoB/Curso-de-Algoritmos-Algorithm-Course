@@ -1,0 +1,15 @@
+C:\Users\guimb\Cursos Udemy\workspaces\ws-C#\heights\bin\Debug\net6.0\heights.exe
+C:\Users\guimb\Cursos Udemy\workspaces\ws-C#\heights\bin\Debug\net6.0\heights.deps.json
+C:\Users\guimb\Cursos Udemy\workspaces\ws-C#\heights\bin\Debug\net6.0\heights.runtimeconfig.json
+C:\Users\guimb\Cursos Udemy\workspaces\ws-C#\heights\bin\Debug\net6.0\heights.dll
+C:\Users\guimb\Cursos Udemy\workspaces\ws-C#\heights\bin\Debug\net6.0\heights.pdb
+C:\Users\guimb\Cursos Udemy\workspaces\ws-C#\heights\obj\Debug\net6.0\heights.csproj.AssemblyReference.cache
+C:\Users\guimb\Cursos Udemy\workspaces\ws-C#\heights\obj\Debug\net6.0\heights.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\guimb\Cursos Udemy\workspaces\ws-C#\heights\obj\Debug\net6.0\heights.AssemblyInfoInputs.cache
+C:\Users\guimb\Cursos Udemy\workspaces\ws-C#\heights\obj\Debug\net6.0\heights.AssemblyInfo.cs
+C:\Users\guimb\Cursos Udemy\workspaces\ws-C#\heights\obj\Debug\net6.0\heights.csproj.CoreCompileInputs.cache
+C:\Users\guimb\Cursos Udemy\workspaces\ws-C#\heights\obj\Debug\net6.0\heights.dll
+C:\Users\guimb\Cursos Udemy\workspaces\ws-C#\heights\obj\Debug\net6.0\refint\heights.dll
+C:\Users\guimb\Cursos Udemy\workspaces\ws-C#\heights\obj\Debug\net6.0\heights.pdb
+C:\Users\guimb\Cursos Udemy\workspaces\ws-C#\heights\obj\Debug\net6.0\heights.genruntimeconfig.cache
+C:\Users\guimb\Cursos Udemy\workspaces\ws-C#\heights\obj\Debug\net6.0\ref\heights.dll
